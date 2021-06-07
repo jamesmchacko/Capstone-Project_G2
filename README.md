@@ -74,6 +74,10 @@ ESP32 Webserver
 
 Programming Language Used: C/C++
 
+Proteus
+
+Easy EDA
+
 © 2021 GitHub, Inc.
 Terms
 Privacy
