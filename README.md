@@ -78,6 +78,8 @@ Proteus
 
 Easy EDA
 
+KiCAD
+
 © 2021 GitHub, Inc.
 Terms
 Privacy
