@@ -72,8 +72,7 @@ Arduino IDE
 
 ESP32 Webserver
 
-Programming Language Used: C/C++ along with Python (iff No C/C++ Language Support Avaliable)
-
+Programming Language Used: C/C++
 
 © 2021 GitHub, Inc.
 Terms
