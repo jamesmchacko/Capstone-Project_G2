@@ -82,9 +82,7 @@ KiCAD
 
 # Schematic made using EasyEDA
 
-x-special/nautilus-clipboard
-copy
-file:///home/christy/Downloads/Photo.pdf
+![image](https://github.com/jamesmchacko/Capstone-Project_G2/assets/40349694/92d45d87-aadc-4a17-add2-a79a56008c43)
 
 # 3D View of Design
 
